@@ -1,7 +1,7 @@
 # SQL-notes
 basics notes
 
-'''
+```
 # Questions
 1. Count of Employee by Department Name
 2. How many departments we have
@@ -13,4 +13,4 @@ basics notes
 8. Employee having lowest salary (bottom 1)
 9. Employees having above average salary within organization
 10. How to bring all the data from both employee and department without missing any row or data
-'''
+```
